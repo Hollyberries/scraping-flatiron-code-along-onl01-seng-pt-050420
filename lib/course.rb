@@ -16,5 +16,9 @@ class Course
     @@all.clear
   end
   
+  def get_courses
+    
+  end
+  
 end
 
